@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/Ada-Lovelace-12.jpg",
+    "artist": "Ada Lovelace"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/Aung-San-Suu-Kyi-12.jpg",
+    "artist": "Aung Sann Suu Kyi"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/beyonce-knowles-8.jpg",
+    "artist": "Beyonce Knowles"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/emmeline-pankhurst-9.jpg",
+    "artist": "Emmeline Pankhurst"
+ 
+  },
+  {
+    "id": 5,
+    "image": "assets/images/Frida-Kahlo-1.jpg",
+    "artist": "Frida Kahlo"
+    
+  },
+  {
+    "id": 6,
+    "image": "assets/images/harriet-tubman-12.jpg",
+    "artist": "Harriet Tubman"
+  },
+  {
+    "id": 7,
+    "image": "assets/images/janelle-monae-7.jpg",
+    "artist": "Janelle Monae"
+  },
+  {
+    "id": 8,
+    "image": "assets/images/maya-angelou-3.jpg",
+    "artist": "Maya Angelou"
+  },
+  {
+    "id": 9,
+    "image": "assets/images/Michelle-Obama-4.jpg",
+    "artist": "Michelle Obama"
+  },
+  {
+    "id": 10,
+    "image": "assets/images/morticia-adam-5.jpg",
+    "artist": "Morticia Adams"
+  },
+  {
+    "id": 11,
+    "image": "assets/images/nina-simone-2.jpg",
+    "artist": "Nina Simone"
+  },
+  {
+    "id": 12,
+    "image": "assets/images/Rosa-parks-11.jpg",
+    "artist": "Rosa Parks"
+  },
+  {
+    "id": 13,
+    "image": "assets/images/serena-williams-6.jpg",
+    "artist": "Serena Williams"
+  },
+  {
+    "id": 14,
+    "image": "assets/images/simone-de-Beavoir-10.jpg",
+    "artist": "Simone de Beavoir"
+   }
+  
+]
